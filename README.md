@@ -1,4 +1,4 @@
-<img width="1902" height="978" alt="Main Dashboard" src="https://github.com/user-attachments/assets/7c7661a2-289c-4955-9f53-96bea9b026f4" /># GitHub Issues Tracker
+# GitHub Issues Tracker
 
 A responsive issue-tracking web application built with <b>HTML, CSS, and Vanilla JavaScript</b>. The app authenticates a user via a login page and then displays issues fetched from a live API, with tab-based filtering (All / Open / Closed), card-based layouts, a detail modal, and search functionality.
 
