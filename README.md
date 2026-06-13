@@ -1,4 +1,4 @@
-# GitHub Issues Tracker
+<img width="1902" height="978" alt="Main Dashboard" src="https://github.com/user-attachments/assets/7c7661a2-289c-4955-9f53-96bea9b026f4" /># GitHub Issues Tracker
 
 A responsive issue-tracking web application built with <b>HTML, CSS, and Vanilla JavaScript</b>. The app authenticates a user via a login page and then displays issues fetched from a live API, with tab-based filtering (All / Open / Closed), card-based layouts, a detail modal, and search functionality.
 
@@ -29,7 +29,7 @@ This project is part of my course Assignment and simulates a simplified GitHub I
 
 ## 🌐 Live Demo
 
-> 🔗 **Live Site:** [https://raselbabu273.github.io/github-issues-tracker/]
+> 🔗 **Live Site:** [https://raselbabu273.github.io/github-issues-tracker/] <br>
 > 🔗 **Repository:** [https://github.com/raselbabu273/github-issues-tracker]
 
 ---
@@ -38,7 +38,10 @@ This project is part of my course Assignment and simulates a simplified GitHub I
 
 | Login Page | Main Dashboard | Issue Modal |
 | :---: | :---: | :---: |
-| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
+| <img width="1157" height="950" alt="Login page" src="https://github.com/user-attachments/assets/203329f0-198d-422f-bb1d-8fba063cb7a8" />
+ | <img width="1902" height="978" alt="Main Dashboard" src="https://github.com/user-attachments/assets/a5cfefda-391c-4368-a2ca-178565c9bad6" />
+ | <img width="862" height="747" alt="Issue Modal" src="https://github.com/user-attachments/assets/f1ca77fa-321c-4c6f-abc1-3a253bd41d7a" />
+ |
 
 ---
 
