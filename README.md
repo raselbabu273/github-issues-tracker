@@ -1,7 +1,7 @@
 - 1️⃣ What is the difference between var, let, and const?
 ==> Answer:
 1. var
-(i) It is function-scoped or globally scoped.
+(i) It is function-scoped or globally scop
 (ii) Reassigning values is allowed.
 (iii) It is hoisted and initialized with undefined.
 (iv) Initialization is optional.
