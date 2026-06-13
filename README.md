@@ -38,10 +38,7 @@ This project is part of my course Assignment and simulates a simplified GitHub I
 
 | Login Page | Main Dashboard | Issue Modal |
 | :---: | :---: | :---: |
-| <img width="1157" height="950" alt="Login page" src="https://github.com/user-attachments/assets/203329f0-198d-422f-bb1d-8fba063cb7a8" />
- | <img width="1902" height="978" alt="Main Dashboard" src="https://github.com/user-attachments/assets/a5cfefda-391c-4368-a2ca-178565c9bad6" />
- | <img width="862" height="747" alt="Issue Modal" src="https://github.com/user-attachments/assets/f1ca77fa-321c-4c6f-abc1-3a253bd41d7a" />
- |
+|       |       |       |
 
 ---
 
