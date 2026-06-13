@@ -151,12 +151,12 @@ assignment-05-github-issues-tracker/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   git clone https://github.com/raselbabu273/github-issues-tracker.git
    ```
 
 2. **Navigate into the project folder**
    ```bash
-   cd <your-repo-name>
+   cd github-issues-tracker
    ```
 
 3. **Open the project**
